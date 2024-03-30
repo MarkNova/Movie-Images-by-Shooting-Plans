@@ -18,7 +18,7 @@ I have saved several notebooks and python files in this repository. Some are use
 
 During the study, it turned out to achieve an average **accuracy** of **0.7314**. At first glance, the result is not impressive, but I want to note that if you ask a person to solve this problem, they are likely to face great difficulties. Below you can see some of the images in which the model was mistaken during the validation process:
 
-![alt text](errors_png\__results___7_0.png)
+![alt text](https://github.com/MarkNova/Movie-Images-by-Shooting-Plans/blob/main/errors_png/__results___7_0.png)
 
 
 
